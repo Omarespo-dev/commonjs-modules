@@ -7,6 +7,7 @@
 const nomeCompleto = require("./names.js");
 // console.log(nomeCompleto("omar","esposito"))
 
+
 // 2. Importa la tua funzione da hobbies.js
 const hobby = require("./hobbies.js");
 
